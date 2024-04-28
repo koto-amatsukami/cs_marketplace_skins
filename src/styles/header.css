@@ -1,0 +1,14 @@
+/* Estilos para o componente Header */
+
+.header {
+    background-color: #333; /* Cor de fundo do header */
+    color: #fff; /* Cor do texto do header */
+    padding: 20px 0; /* Espaçamento interno do header */
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo */
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 150px; /* Largura da imagem do logo */
+  }

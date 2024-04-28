@@ -1,0 +1,12 @@
+/* Estilos para o componente Footer */
+
+.footer {
+    background-color: #333; /* Cor de fundo do footer */
+    color: #fff; /* Cor do texto do footer */
+    padding: 20px; /* Espaçamento interno do footer */
+    text-align: center; /* Centraliza o texto */
+  }
+  
+  p {
+    margin: 0; /* Remove margens padrão */
+  }

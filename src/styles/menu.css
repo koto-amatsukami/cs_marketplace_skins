@@ -1,0 +1,28 @@
+/* Atualize o CSS no arquivo Menu.css */
+
+nav {
+    background-color: black;
+    padding: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Usa layout flexível para os itens do menu */
+    justify-content: center; /* Centraliza os itens do menu horizontalmente */
+  }
+  
+  li {
+    margin: 0 10px; /* Adiciona margem horizontal aos itens */
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
